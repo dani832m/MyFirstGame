@@ -10,6 +10,7 @@ Spillet hedder **The Sausage Eater**, og går i alt sin enkelthed ud på at spis
 
 ![alt text](https://i.imgur.com/xEHOE5r.png "Controls")
 
+Spillet kan desuden pauses på **Esc**, og du kan tage screenshot in-game på **P**.
 
 ## Informationer & Credits
 
