@@ -2,6 +2,8 @@
 
 Dette repository indeholder resultatet af udviklingen henimod mit første mini-spil programmeret i **Java** baseret på **FXGL-biblioteket.** Inspiration og tutorials er hentet fra [**AlmasB**](http://almasb.github.io/FXGL/). Læs mere om **FXGL** og processen i [**Wiki-sektionen**](https://github.com/dani832m/My_FXGL_Game/wiki) og se evt. projektets [**GH Page**](https://dani832m.github.io/My_FXGL_Game/) for en mere visuel præsentation.
 
+## Screenshots
+
 ![Screenshot af Main Menu](https://i.imgur.com/dzv9Nws.png)
 
 ![Screenshot af det færdige spil IG](https://i.imgur.com/Cl02ERe.png)
