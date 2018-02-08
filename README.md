@@ -1,8 +1,8 @@
 # Mit første mini-spil
 
-Dette repository indeholder resultatet af udviklingen henimod mit første mini-spil programmeret i **Java** baseret på **FXGL-biblioteket (version 0.4.1).** Inspiration og tutorials er hentet fra [**AlmasB**](http://almasb.github.io/FXGL/).
+Dette repository indeholder resultatet af udviklingen henimod mit første mini-spil programmeret i **Java** baseret på **FXGL-biblioteket (version 0.4.2).** Inspiration og tutorials er hentet fra [**AlmasB**](http://almasb.github.io/FXGL/).
 
-Selve kildekoden kan findes i mappen **"src"** og spillet kan eksekveres via jar-filen. Det er ikke muligt at clone repo direkte til sit IDEA og få det til at køre, da jeg har undladt at uploade visse filer og mapper.
+Selve kildekoden kan findes i mappen **"src"**, og spillet kan eksekveres via **jar-filen** - _Husk du skal have **JDK 9** installeret!_ Det er ikke muligt at clone repo direkte til sit **IDEA** og få det til at køre, da jeg har undladt at uploade visse filer og mapper.
 
 Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen**](https://github.com/dani832m/MyFirstGame/wiki) og se evt. projektets [**GH Page**](https://dani832m.github.io/MyFirstGame) for en mere visuel præsentation.
 
