@@ -6,11 +6,13 @@ Selve kildekoden kan findes i mappen **"src"**, og spillet kan eksekveres via **
 
 Læs mere om **FXGL** og processen henimod det færdige spil i [**Wiki-sektionen**](https://github.com/dani832m/MyFirstGame/wiki) og se evt. projektets [**GH Page**](https://dani832m.github.io/MyFirstGame) for en mere visuel præsentation.
 
+
 ## Screenshots
 
-![Screenshot af Main Menu](https://i.imgur.com/dzv9Nws.png)
+![Screenshot af Main Menu](https://i.imgur.com/VOdDkbz.png)
 
-![Screenshot af det færdige spil IG](https://i.imgur.com/Cl02ERe.png)
+![Screenshot af det færdige spil IG](https://i.imgur.com/kDES5wF.png)
+
 
 ## Spilinstruktioner
 
@@ -19,6 +21,7 @@ Spillet hedder **The Sausage Eater**, og går i alt sin enkelthed ud på at spis
 ![alt text](https://i.imgur.com/xEHOE5r.png "Controls")
 
 Spillet kan desuden pauses på **Esc**, og du kan tage screenshot in-game på **P**.
+
 
 ## Informationer & Credits
 
